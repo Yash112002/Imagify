@@ -5,7 +5,7 @@ Imagify is an innovative web application based on the DALL-E AI model, allowing 
 Imagify is designed to provide users with an intuitive and seamless experience for generating images based on textual inputs. By leveraging the power of the DALL-E AI model, the application can interpret and translate user prompts into visually captivating images. Cloudinary is employed to efficiently store, manage, and deliver the generated images, ensuring a smooth and reliable user experience.
 
 ## Demo
-Check out the live demo of Imagify [https://sage-swan-d6e132.netlify.app/](url).
+Check out the live demo of Imagify https://sage-swan-d6e132.netlify.app/.
 
 ## Features
 * Text-to-Image Generation: Users can input descriptive text or prompts to generate corresponding images.
