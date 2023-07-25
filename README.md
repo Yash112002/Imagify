@@ -22,9 +22,8 @@ The following technologies were used to develop Imagify:
 
 ## RESTful APIs
 Imagify exposes the following RESTful APIs:
-* POST /api/images: Submit textual descriptions or prompts to generate images.
-* GET /api/images/:id: Retrieve image details by ID.
-* GET /api/images/:id/download: Download the generated image by ID.
+* /api/v1/dalle: Submit textual descriptions or prompts to generate images.
+* /api/v1/post: Retrieve image details.
 
 ## Configuration
 Before running the application, make sure to set up the following configurations:
